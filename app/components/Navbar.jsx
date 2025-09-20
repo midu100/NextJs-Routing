@@ -18,6 +18,7 @@ const Navbar = () => {
                 <ul className='flex gap-[20px] justify-center'>
                     <li><Link className='text-[18px] font-mono text-[#000]' href={'/'}>Home</Link></li>
                     <li><Link className='text-[18px] font-mono text-[#000]' href={'/about'}>About</Link></li>
+                    <li><Link className='text-[18px] font-mono text-[#000]' href={'/services'}>Services</Link></li>
                     <li><Link className='text-[18px] font-mono text-[#000]' href={'/contact'}>Contact</Link></li>
                 </ul>
             </div>
